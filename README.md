@@ -2,7 +2,7 @@
 
 Create a function that
 - takes the name of a CSV file as a parameter,
-- every row is in the following format: <person name>; <birth in YYYY-MM-DD format>; <city name>
+- every row is in the following format: person name; birth in YYYY-MM-DD format; city name
 - and returns Dictionary where Key wiil be year between 1990-1999 and Values will string with names comma separated, e. g.
 
 Create a function that
