@@ -8,3 +8,8 @@
 ### Create another function
 - that takes the `Dictionary` and a year as parameters,
 - function writes all Values (all names) for the selected year - each name onto a seperate line
+- output for 1990:
+```text   
+   Tomáš Novotný
+   David Černý
+```
